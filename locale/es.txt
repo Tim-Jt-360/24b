@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_1E07FCD1_107D_CAEE_41A3_39E3B28927BE.label = Schüepwis 24b
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Schüepwis 24b
